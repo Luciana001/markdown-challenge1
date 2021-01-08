@@ -10,3 +10,5 @@
 | Couleur préférée: |Noir|Bleu
 |Nourriture préférée:|Asiatique|Italienne
 |Ananas sur pizza:|<ul><li>[ ] Oui </li></ul>|<ul><li>[ ] Non</li></ul>  
+
+je suis perdue !!! :D
